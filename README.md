@@ -23,6 +23,9 @@ The command produces:
 - `difference.png`: a diagnostic image with red for material removed and blue
   for material deposited.
 
+| Before | After | Difference |
+| ![The before heightmap](https://github.com/Lukefl/ErosionSim/blob/main/before.png) | ![The after heightmap](https://github.com/Lukefl/ErosionSim/blob/main/after.png) | ![The difference](https://github.com/Lukefl/ErosionSim/blob/main/difference.png)
+
 For a quick default run:
 
 ```sh
